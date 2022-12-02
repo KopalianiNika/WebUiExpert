@@ -1,0 +1,431 @@
+.dabla{
+    position:absolute;
+    top: 2100px;
+    color: white;
+}
+.logo1{
+    color: blue;
+}
+.logo2{
+    color: gray;
+}
+.navigation{
+    position:fixed;
+    z-index: 5;
+    background-color:white;
+    width: 3000px;
+    height: 60px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 500px;
+    position: fixed;
+    top: 30px;
+    right: 70px;
+    margin: 0 auto;
+}
+
+a,li{
+    outline: none;
+    text-decoration: none;
+    color: blue;
+    display: block;
+    scale: 1.2;
+}
+a:hover{
+    font-size: 18px;
+    color: red;
+}
+.logo1{
+    position:fixed;
+    justify-content: space-between;
+    margin-top:25px;
+    font-size: 30px;
+    margin-left: 100px;
+    }  
+    .logo2{
+        position:fixed;
+        justify-content: space-between;
+        margin-top:25px;
+        font-size: 30px;
+        margin-left: 160px;
+    }
+.ui{
+    font-size: 30px;
+    color: gray;
+    position:absolute;
+    margin-top: 10px;
+    margin-left: 160px;
+}
+
+.provide{
+    font-size: 70px;
+    color: gray;
+    position:absolute;
+    top: 28%;
+    left: 7%;
+}
+.service{
+    font-size: 70px;
+    color: gray;
+    position:absolute;
+    top: 36%;
+    left: 7%;
+}
+.mobile{
+    position:absolute;
+    top: 47%;
+    left: 7%;
+}
+.kaci{
+    width: 600px;
+    position:absolute;
+    top: 10%;
+    left: 59%;
+}
+.box10{
+    background-color: rgb(71, 71, 221);
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    position:absolute;
+    top: 55%;
+    left: 8%;
+}
+.kukuri{
+    position:absolute;
+    top: 25%;
+    left: 40%;
+    font-size: 25px;
+    color: white;
+}
+.box10:hover{
+    background-color: rgb(31, 31, 238);
+}
+.fa-hand{
+    position:absolute;
+    top: 19%;
+    left: 15%;
+    font-size: 30px;
+    color: white;
+}
+
+.our{
+    font-size: 20px;
+    color: blue;
+    position:absolute;
+    top: 110%;
+    left: 49%;
+}
+.we{
+    font-size: 40px;
+    color: black;
+    position:absolute;
+    top: 114%;
+    left: 40%;
+}
+.axla{
+    position:absolute;
+    top: 121%;
+    left: 40%;
+}
+.mere{
+    position:absolute;
+    top: 123%;
+    left: 39%;
+}
+.experience{
+    position:absolute;
+    top: 125%;
+    left: 52%;
+}
+.fa-computer{
+    color: white;
+    position:absolute;
+    top: 10%;
+    left: 35%;
+    font-size: 70px;
+}
+.box1{
+    background-color: orange;
+    width: 300px;
+    height: 350px;
+    position:absolute;
+    top: 134%;
+    left: 25%;
+}
+.erti{
+    color: white;
+    position:absolute;
+    top: 37%;
+    left: 30%;
+    font-size: 30px;
+}
+.ori{
+    color: white;
+    position:absolute;
+    top: 50%;
+    left: 6%;
+}
+.sami{
+    color: white;
+    position:absolute;
+    top: 57%;
+    left: 6%;
+}
+.otxi{
+    border-radius: 50px;
+    background:none;
+    border-color: white;
+    border-style: groove;
+    width: 150px;
+    height: 50px;
+    position:absolute;
+    top: 65%;
+    left: 23%;
+}
+.otxi:hover{
+    background-color: white;
+}
+.box2{
+    background:linear-gradient(aqua,skyblue);
+    width: 300px;
+    height: 350px;
+    position:absolute;
+    top: 134%;
+    left: 45%;
+}
+.fa-pen-nib{
+    color: white;
+    position:absolute;
+    top: 10%;
+    left: 40%;
+    font-size: 70px;
+}
+.xuti{
+    color: white;
+    position:absolute;
+    top: 37%;
+    left: 30%;
+    font-size: 30px;
+}
+.eqvsi{
+    color: white;
+    position:absolute;
+    top: 50%;
+    left: 6%;
+}
+.shvidi{
+    color: white;
+    position:absolute;
+    top: 57%;
+    left: 6%;
+}
+.rva{
+    border-radius: 50px;
+    border-color: white;
+    background: none;
+    border-style: groove;
+    width: 150px;
+    height: 50px;
+    position:absolute;
+    top: 65%;
+    left: 23%;
+}
+.rva:hover{
+    background-color: white;
+}
+.box3{
+    background:linear-gradient(rgb(194, 139, 148),purple);
+    width: 300px;
+    height: 350px;
+    position:absolute;
+    top: 134%;
+    left: 65%
+}
+.fa-mobile-screen{
+    color: white;
+    position:absolute;
+    top: 10%;
+    left: 40%;
+    font-size: 70px;
+}
+.cxra{
+    color: white;
+    position:absolute;
+    top: 37%;
+    left: 22%;
+    font-size: 30px;
+}
+.ati{
+    color: white;
+    position:absolute;
+    top: 50%;
+    left: 6%;
+}
+.tertmeti{
+    color: white;
+    position:absolute;
+    top: 57%;
+    left: 6%;
+}
+.tormeti{
+    border-radius: 50px;
+    border-color: white;
+    background:none;
+    border-style: groove;
+    width: 150px;
+    height: 50px;
+    position:absolute;
+    top: 65%;
+    left: 23%;
+}
+.tormeti:hover{
+    background-color: white;
+}
+.box4{
+    background:linear-gradient(to top,rgb(31, 31, 231),rgb(100, 209, 252));
+    width: 300px;
+    height: 350px;
+    position:absolute;
+    top: 175%;
+    left: 25%;
+}
+.fa-app-store-ios{
+    color: white;
+    position:absolute;
+    top: 10%;
+    left: 39%;
+    font-size: 70px;
+}
+.erti1{
+    color: white;
+    position:absolute;
+    top: 37%;
+    left: 22%;
+    font-size: 30px;
+}
+.ori2{
+    color: white;
+    position:absolute;
+    top: 50%;
+    left: 6%;
+}
+.sami3{
+    color: white;
+    position:absolute;
+    top: 57%;
+    left: 6%;
+}
+.otxi4{
+    border-radius: 50px;
+    border-color: white;
+    background: none;
+    border-style: groove;
+    width: 150px;
+    height: 50px;
+    position:absolute;
+    top: 65%;
+    left: 23%;
+}
+.otxi4:hover{
+    background-color: white;
+}
+.box5{
+    background:linear-gradient(to top,rgb(121, 63, 121),rgb(185, 134, 143));
+    width: 300px;
+    height: 350px;
+    position:absolute;
+    top: 175%;
+    left: 45%;
+}
+.fa-uikit{
+    color: white;
+    position:absolute;
+    top: 10%;
+    left: 35%;
+    font-size: 70px;
+}
+.xuti5{
+    color: white;
+    position:absolute;
+    top: 37%;
+    left: 22%;
+    font-size: 30px;
+}
+.eqvsi6{
+    color: white;
+    position:absolute;
+    top: 50%;
+    left: 6%;
+}
+.shvidi7{
+    color: white;
+    position:absolute;
+    top: 57%;
+    left: 6%;
+}
+.rva8{
+    border-radius: 50px;
+    border-color: white;
+    border-style: groove;
+    background:none;
+    width: 150px;
+    height: 50px;
+    position:absolute;
+    top: 65%;
+    left: 23%;
+}
+.rva8:hover{
+    background-color: white;
+}
+.box6{
+    background:linear-gradient(rgb(202, 107, 107),rgb(185, 65, 65));
+    width: 300px;
+    height: 350px;
+    position:absolute;
+    top: 175%;
+    left: 65%;
+}
+.fa-gears{
+    color: white;
+    position:absolute;
+    top: 10%;
+    left: 35%;
+    font-size: 70px;
+}
+.cxra9{
+    color: white;
+    position:absolute;
+    top: 37%;
+    left: 22%;
+    font-size: 30px;
+}
+.ati10{
+    color: white;
+    position:absolute;
+    top: 50%;
+    left: 6%;
+}
+.tertmeti11{
+    color: white;
+    position:absolute;
+    top: 57%;
+    left: 6%;
+}
+.tormeti12{
+    border-radius: 50px;
+    border-color: white;
+    background:none;
+    border-style: groove;
+    width: 150px;
+    height: 50px;
+    position:absolute;
+    top: 65%;
+    left: 23%;
+}
+.tormeti12:hover{
+    background-color: white;
+}
